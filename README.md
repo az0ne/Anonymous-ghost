@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymous-ghost&amp;repo=AttackWebFrameworkTools&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt" style="max-width:100%;"></li>
 </ul>
 
-<h2>github statistics</h2>
+<h2>github repo statistics</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&show_icons=true&theme=blueberry" style="max-width:100%;">
  
