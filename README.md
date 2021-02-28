@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <ul>
   <li>2021-02-13 创建第一个项目 AttackWebFrameworkTools</li>
 </ul>
-<img align="" src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
+<img align="" src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&show_icons=true&theme=blueberry" style="max-width:100%;">
