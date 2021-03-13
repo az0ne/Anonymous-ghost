@@ -19,6 +19,7 @@ Here are some ideas to get you started:
   <li>2021-02-13 创建第一个项目 AttackWebFrameworkTools<br/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymous-ghost&amp;repo=AttackWebFrameworkTools&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt" style="max-width:100%;"></li>
   <li>项目如果是直接getshell的那么连接工具是Behinder_v3.0 Beta 6 或者是 antSword 或者是菜刀。</li>
+   <li>另外如果shell提示postData:之类的的意思就是要post提交你自己的webshell内容。工具的这个shell是一个上传的shell不是直接可以连接的webshell</li>
 </ul>
 
 <h2>github repo statistics</h2>
