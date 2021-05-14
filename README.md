@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>I am Anonymous-ghost</h2
+<h2>I am Anonymous-ghost</h2>
 <ul>
   <li>2021-02-13 创建第一个项目 AttackWebFrameworkTools。这是一款专门对网站使用各种框架进行自动化漏洞测试工具。只要填写要测试的url即可实现傻瓜式自动化批量测试!!!专注网站安全30年😄😃🤣🤣🤣🤣😂😂😂<br/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anonymous-ghost&amp;repo=AttackWebFrameworkTools&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt" style="max-width:100%;"></li>
@@ -23,10 +23,15 @@ Here are some ideas to get you started:
    <li>另外如果shell提示postData:之类的的意思就是要post提交你自己的webshell内容。工具的这个shell是一个上传的shell不是直接可以连接的webshell</li>
   <li>切勿利用项目里的所有工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</li>
 </ul>
-
 <h2>github repo statistics</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&show_icons=true&theme=blueberry" style="max-width:100%;">
-<div>
- <h2>Visitor statistics</h2>
- <img align="left" src="https://profile-counter.glitch.me/Anonymous-ghost/count.svg" alt="Anonymous-ghost" style="max-width:100%;">
-</div>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&show_icons=true&theme=blueberry" alt="Anonymous-ghost" >
+
+<h2>Visitor statistics</h2>
+
+ <img src="https://profile-counter.glitch.me/Anonymous-ghost/count.svg" alt="Anonymous-ghost" >
+
+
+ 
+
+
