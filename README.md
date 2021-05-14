@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h2>github repo statistics</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&show_icons=true&theme=blueberry" style="max-width:100%;">
- <ul>
+<div>
  <h2>Visitor statistics</h2>
  <img align="left" src="https://profile-counter.glitch.me/Anonymous-ghost/count.svg" alt="Anonymous-ghost" style="max-width:100%;">
-</ul>
+</div>
