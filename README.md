@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anonymous-ghost&show_icons=true&theme=blueberry" style="max-width:100%;">
  
  <h2>Visitor statistics</h2>
- <p><img align="left" src="https://profile-counter.glitch.me/Anonymous-ghost/count.svg" alt="Anonymous-ghost" style="max-width:100%;"></p>
+ <img align="left" src="https://profile-counter.glitch.me/Anonymous-ghost/count.svg" alt="Anonymous-ghost" style="max-width:100%;">
